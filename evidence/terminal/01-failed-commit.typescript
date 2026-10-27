@@ -1,0 +1,11 @@
+^D
+> husky-eslint-lab@1.0.0 lint
+> eslint .
+
+
+/Users/wangkaibo/Documents/Codex/2026-09-19/1-2-https-moodle-herzen-spb/husky-eslint-lab/calc.js
+  25:13  error  'summ' is not defined  no-undef
+
+✖ 1 problem (1 error, 0 warnings)
+
+husky - pre-commit script failed (code 1)

@@ -1,0 +1,6 @@
+^D
+> husky-eslint-lab@1.0.0 lint
+> eslint .
+
+[master beca284] Fix calculator lint errors
+ 1 file changed, 1 insertion(+)

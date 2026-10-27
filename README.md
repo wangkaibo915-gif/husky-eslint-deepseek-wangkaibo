@@ -24,8 +24,9 @@ JavaScript-конфигурацию, рекомендованные правил
 - [`evidence/terminal/01-failed-commit.typescript`](evidence/terminal/01-failed-commit.typescript)
 - [`evidence/terminal/02-successful-commit.typescript`](evidence/terminal/02-successful-commit.typescript)
 
-Записи созданы утилитой `script` при фактическом запуске `git commit`. Это не
-снимки экрана терминала; соответствующие скриншоты необходимо приложить отдельно.
+Записи созданы утилитой `script` при фактическом запуске `git commit`.
+Скриншоты окна терминала: [ошибка при коммите](evidence/terminal/01-failed-commit.png)
+и [успешный коммит](evidence/terminal/02-successful-commit.png).
 
 ## Три запроса к DeepSeek
 
